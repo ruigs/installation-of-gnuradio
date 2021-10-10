@@ -1,0 +1,2 @@
+# installation of gnuradio
+
