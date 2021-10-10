@@ -25,7 +25,7 @@ There are three methords for installation.
 `apt install gnuradio`
 
 
-### 2.2  PPA Installation
+### 2.2  PPA Installation ⬅️
 
 For Ubuntu, the latest builds (both released and pulled from master branch) are maintained as PPAs on [launchpad](https://launchpad.net/~gnuradio).  Be sure to uninstall any previously installed versions of gnuradio first.
 
