@@ -45,7 +45,7 @@ PyBOMBS is good at building GNU Radio, UHD, and various Out of Tree (OOT) module
 
 ## 3 libiio
 
- ### 3.1  Preinstallation
+### 3.1  Preinstallation
 
    Make sure the following modules are installed in your kernel:
 
@@ -196,7 +196,7 @@ sudo ldconfig
 For 3.8, make sure the gr-iio swig interface is on your PYTHONPATH.  Otherwise, you will get import errors in python. The common command  would be (depending on OS and install location):
 
 ```
-export PYTHONPATH=$PYTHONPATH:/usr/local/lib/python3/ dist-packages
+export PYTHONPATH=$PYTHONPATH:/usr/local/lib/python3/dist-packages
 ```
 
 The added path is the location of the newly installed **iio** folder.
